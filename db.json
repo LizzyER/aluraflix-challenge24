@@ -1,0 +1,75 @@
+{
+  "videos": [
+    {
+      "title": "Curso de HTML para iniciantes",
+      "category": "frontend",
+      "description": "Explore o mundo do desenvolvimento web com nosso Curso de HTML para Iniciantes! Aprenda os fundamentos essenciais para criar páginas web estruturadas e funcionais, desde tags básicas até formulários interativos. Ideal para quem deseja começar do zero e construir uma base sólida em HTML.",
+      "videoUrl": "https://www.youtube.com/embed/SV7TL0hxmIQ?si=EHBV5-AeIueCCg8F",
+      "image": "https://img.youtube.com/vi/SV7TL0hxmIQ/maxresdefault.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Curso de CSS para iniciantes",
+      "category": "frontend",
+      "image": "https://img.youtube.com/vi/vwbegraDXD8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/vwbegraDXD8?si=rY0QROLruvne3_4v",
+      "videoUrl": "https://www.youtube.com/embed/vwbegraDXD8?si=rY0QROLruvne3_4v",
+      "description": "Descubra o poder da estilização web com nosso Curso de CSS para Iniciantes! Aprenda a transformar páginas HTML simples em designs atraentes e responsivos utilizando estilos, cores e layouts. Perfeito para iniciantes que desejam dominar as técnicas básicas de design de páginas na web."
+    },
+    {
+      "id": "3",
+      "title": "Curso Javascript Completo",
+      "category": "frontend",
+      "image": "https://img.youtube.com/vi/OYPbr6ZG3pc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/i3Fi6_J_xnM?si=aUrbc9VRxscHFE-K",
+      "videoUrl": "https://www.youtube.com/embed/i3Fi6_J_xnM?si=aUrbc9VRxscHFE-K",
+      "description": "Domine o JavaScript do básico ao avançado com nosso Curso Completo de JavaScript! Explore desde os fundamentos essenciais até conceitos avançados como programação assíncrona e manipulação do DOM. Ideal para quem deseja criar aplicações web dinâmicas e interativas com uma das linguagens mais poderosas da atualidade."
+    },
+    {
+      "id": "4",
+      "title": "Curso Python para Iniciantes",
+      "category": "backend",
+      "image": "https://img.youtube.com/vi/BxMtSb2w9Sk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/BxMtSb2w9Sk?si=54OlqPtKJEGcoMhv",
+      "videoUrl": "https://www.youtube.com/embed/BxMtSb2w9Sk?si=54OlqPtKJEGcoMhv",
+      "description": "Explore o mundo da programação com nosso Curso de Python para Iniciantes! Aprenda os conceitos fundamentais desta linguagem poderosa e versátil, ideal para iniciantes na programação. Desenvolva habilidades práticas para resolver problemas e criar aplicações simples com Python."
+    },
+    {
+      "id": "5",
+      "title": "APRENDA C# BÁSICO EM 30 MINUTOS!",
+      "category": "backend",
+      "image": "https://img.youtube.com/vi/DA-DQsmPItU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/DA-DQsmPItU?si=Ehvc5JXIg77iFzLj",
+      "videoUrl": "https://www.youtube.com/embed/DA-DQsmPItU?si=Ehvc5JXIg77iFzLj",
+      "description": "Prepare-se para dominar o básico de C# em apenas 30 minutos! Este curso condensado oferece uma introdução rápida e eficiente à sintaxe e principais conceitos de programação em C#. Perfeito para iniciantes que desejam começar a desenvolver suas habilidades em programação orientada a objetos."
+    },
+    {
+      "id": "6",
+      "title": "Curso SQL para Iniciantes",
+      "category": "backend",
+      "image": "https://img.youtube.com/vi/6M-jFECiHog/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/6M-jFECiHog?si=sIrY7SW2-0N-Ai4y",
+      "videoUrl": "https://www.youtube.com/embed/6M-jFECiHog?si=sIrY7SW2-0N-Ai4y",
+      "description": "Entre no mundo dos bancos de dados com nosso Curso de SQL para Iniciantes! Aprenda os fundamentos essenciais para manipular dados, criar consultas e gerenciar bancos de dados relacionais. Ideal para quem deseja iniciar sua jornada em análise de dados e desenvolvimento de aplicações baseadas em SQL"
+    },
+    {
+      "id": "7",
+      "title": "CURSO DE KOTLIN PARA INICIANTES",
+      "category": "mobile",
+      "image": "https://img.youtube.com/vi/r_6Ku38sA-c/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/r_6Ku38sA-c?si=LXINACamlEgmPraF",
+      "videoUrl": "https://www.youtube.com/embed/r_6Ku38sA-c?si=LXINACamlEgmPraF",
+      "description": "Explore o mundo da programação Android com nosso Curso de Kotlin para Iniciantes! Aprenda os conceitos fundamentais dessa linguagem moderna e concisa, projetada para o desenvolvimento de aplicativos móveis. Ideal para quem deseja iniciar sua jornada na criação de apps Android de forma eficiente e poderosa."
+    },
+    {
+      "id": "8",
+      "title": "Como sair do ZERO em JAVA em 1h",
+      "category": "mobile",
+      "image": "https://img.youtube.com/vi/EpXYPB1rv4w/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/EpXYPB1rv4w?si=xrG_QO7lSyOLHDLL",
+      "videoUrl": "https://www.youtube.com/embed/EpXYPB1rv4w?si=xrG_QO7lSyOLHDLL",
+      "description": "Desbrave o mundo da programação Java em apenas 1 hora! Este vídeo acelerado oferece uma introdução eficaz aos fundamentos essenciais da linguagem Java, perfeito para quem quer começar a desenvolver suas habilidades em programação orientada a objetos rapidamente. Ideal para iniciantes que desejam um ponto de partida sólido na criação de aplicações robustas."
+    }
+  ]
+}

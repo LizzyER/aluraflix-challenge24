@@ -1,0 +1,73 @@
+.form-newVideo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #191919;
+    height: 80vh;
+    margin-top: 10vh
+}
+
+.form-newVideo h2 {
+    margin: 5px 0 0 0;
+    color: #F5F5F5;
+}
+
+.form-newVideo p {
+    margin: 10px 0 10px 0;
+    color: #F5F5F5;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.form-newVideo input {
+    font-weight: 900;
+    font-size: 15px;
+    color: #F5F5F5;
+    background-color: #191919;
+    width: 340px;
+    height: 30px;
+    border-radius: 10px;
+    border: 3px #262626 solid;
+}
+
+.form-newVideo select {
+    font-weight: 900;
+    font-size: 15px;
+    color: #F5F5F5;
+    background-color: #191919;
+    width: 350px;
+    height: 38px;
+    border-radius: 10px;
+    border: 3px #262626 solid;
+}
+
+.form-newVideo textarea {
+    font-weight: 900;
+    font-size: 15px;
+    color: #F5F5F5;
+    background-color: #191919;
+    width: 350px;
+    height: 154px;
+    border-radius: 15px;
+    border: 3px #262626 solid;
+}
+
+.form-newVideo button {
+    font-weight: 900;
+    font-size: 20px;
+    color: #F5F5F5;
+    background-color: #191919;
+    margin: 24px 0 24px 0;
+    width: 180px;
+    height: 36px;
+    border-radius: 15px;
+    border: 3px #F5F5F5 solid;
+}
+
+.form-newVideo button:hover {
+    color:#2271D1;
+    border: 2px #2271D1 solid;
+    transition: 0.5s;
+    box-sizing: inset 0 0 12px 4px #2271D1;
+}
